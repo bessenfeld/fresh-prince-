@@ -1,0 +1,11 @@
+h1 {
+	color: red
+	font-family: Futura;
+}
+p {
+	color: blue;
+	font-family: Futura;
+}
+p {
+	color:: red;
+}
